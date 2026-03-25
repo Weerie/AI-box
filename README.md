@@ -16,6 +16,10 @@ Visit the app at [ai.weerie.tech](https://ai.weerie.tech/)
 
 This project is intended as a straightforward way to explore and use AI capabilities locally.
 
-## License
+## Source-Code
 
-I dunno
+Currently not public.
+Want access? message me on Discord!
+Username: Weerie
+
+<img width="1024" height="1024" alt="icon (3)" src="https://github.com/user-attachments/assets/2dd2988a-7bf2-44b6-8900-6d6759bd24f6" />
