@@ -1,4 +1,4 @@
-# Weerie's AI Box
+# Weerie's AI Box - v0.1.8
 
 Weerie's AI Box is a web-based AI playground that brings useful AI tools together in a simple, accessible interface.
 
