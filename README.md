@@ -10,7 +10,7 @@ Weerie's AI Box is a web-based AI playground that brings useful AI tools togethe
 
 ## Website
 
-Visit the app at [ai.weerie.tech](https://ai.weerie.tech/)
+Read information and features at [ai.weerie.tech](https://ai.weerie.tech/)
 
 ## About
 
