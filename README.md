@@ -15,6 +15,7 @@ Visit the app at [ai.weerie.tech](https://ai.weerie.tech/)
 ## About
 
 This project is intended as a straightforward way to explore and use AI capabilities locally.
+Check out the changelog [here](https://github.com/Weerie/AI-box/blob/main/CHANGELOG.md)
 
 ## Source-Code
 
