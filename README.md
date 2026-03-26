@@ -34,17 +34,18 @@ You can find the instructions [here](https://github.com/Weerie/AI-box/blob/main/
 ## Quick Start
 
 1. Install Ollama: https://ollama.com/download
-2. Pull a model (example):
+2. Find a model you want to use: https://ollama.com/search
+3. Pull the model by using this command in your terminal. (example):
    ```bash
    ollama pull qwen2.5:7b
    ```
-3. Start Ollama:
+4. Start Ollama:
    ```bash
    ollama serve
    ```
-4. Launch Weerie’s AI Box
-5. Open Settings and set your provider/model
-6. Start a new chat and choose mode + agents
+5. Launch Weerie’s AI Box
+6. Open Settings and set your provider/model
+7. Start a new chat and choose mode + agents
 
 ## Privacy
 All conversation data and runtime settings are stored locally on your machine.
