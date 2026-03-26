@@ -11,6 +11,10 @@ Specifically made to be beginner friendly, and easy to understand!
 Download the latest Windows installer from **Releases**:  
 [Latest Release](https://github.com/Weerie/AI-box/releases/tag/v0.1.9)
 
+## Updating the app
+
+Follow the instructions on [this github page.](https://github.com/Weerie/AI-box/blob/main/HOWTO_UPDATE.md)
+
 ## What It Does
 
 - Runs with local model providers (Ollama + OpenAI-compatible APIs)
