@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.2.3 - 2026-03-26
+
+### Added
+- Uninstaller option: **Save local chats / agents (recommended)** so users can keep local data during uninstall.
+- New **Local Chat Storage** section in Personal Settings showing the exact storage folder and managed files.
+- Personal Settings actions to quickly **Open Folder** (desktop app) and **Copy Path** for storage location.
+
+### Changed
+- Installer behavior now defaults to preserving AppData on uninstall unless the user explicitly chooses to remove it.
+
 ## v0.2.2 - 2026-03-26
 
 ### Changed
