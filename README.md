@@ -5,7 +5,7 @@ Local-first LLM playground for roleplay, character simulation, and multi-agent c
 ## Download
 
 Download the latest Windows installer from **Releases**:  
-https://github.com/<your-username>/<your-repo>/releases/latest
+[Latest Release](https://github.com/Weerie/AI-box/releases/tag/v0.1.9)
 
 ## What It Does
 
