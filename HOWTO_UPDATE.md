@@ -1,5 +1,3 @@
-# HOWTO_UPDATE.md
-
 # How to Update Weerie's AI Box
 
 At the moment, updating **Weerie's AI Box** requires a full reinstall.
