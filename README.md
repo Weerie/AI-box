@@ -13,7 +13,7 @@ Download the latest Windows installer from **Releases**:
 
 ## Updating the app
 
-Follow the instructions on [this github page.](https://github.com/Weerie/AI-box/blob/main/HOWTO_UPDATE.md)
+You can find the instructions [here](https://github.com/Weerie/AI-box/blob/main/HOWTO_UPDATE.md)!
 
 ## What It Does
 
