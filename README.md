@@ -47,6 +47,15 @@ All conversation data and runtime settings are stored locally on your machine.
 
 **Important Note:** The app might ask for netwerk access. This is because a backend is bundled with the app that starts a server to send API requests to your local model.
 
+## Integrity Verification
+Each release includes SHA256SUMS.txt.
+
+To verify on Windows:
+```Powershell
+certutil -hashfile .\Weerie_AI_box_Setup.exe SHA256
+```
+Compare the output hash with the matching line in SHA256SUMS.txt.
+
 ## Troubleshooting
 - Backend offline: restart app, verify local provider is running
 - No model output: check Logs tab for request/model errors
