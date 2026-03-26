@@ -70,6 +70,7 @@ This project is distributed as a binary release.
 Contribution and feedback are handled via Discord: COMING SOON
 
 ## License
-Proprietary / All Rights Reserved.
+All Rights Reserved
 
-No modification or redistribution rights are granted without explicit written permission.
+This repository and its contents are proprietary.
+No part of this repository may be copied, modified, distributed, sublicensed, or used in derivative works without prior written permission from the copyright holder.
