@@ -56,4 +56,5 @@ Contribution and feedback are handled via Discord: COMING SOON
 
 ## License
 Proprietary / All Rights Reserved.
+
 No modification or redistribution rights are granted without explicit written permission.
