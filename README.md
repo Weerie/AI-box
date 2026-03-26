@@ -2,6 +2,10 @@
 
 Local-first LLM playground for roleplay, character simulation, and multi-agent conversations.
 
+Specifically made to be beginner friendly, and easy to understand!
+
+<img width="250" height="250" alt="favicon" src="https://github.com/user-attachments/assets/5e81d21a-8f93-4943-888a-6557c4a9b796" />
+
 ## Download
 
 Download the latest Windows installer from **Releases**:  
