@@ -14,8 +14,8 @@ Download the latest Windows installer from **Releases**:
 ## What It Does
 
 - Runs with local model providers (Ollama + OpenAI-compatible APIs)
-- Supports **You + AI** and **AI + AI** conversation modes
-- Includes **Agent Mode** and **Roleplay Mode** presets
+- Supports **You + AI** for user interactive chatting, and **AI + AI** to let your LLM talk to itself!
+- Includes **Agent Mode** for simple texting, and **Roleplay Mode** for increased freedom and creativity.
 - Lets you create/manage custom agents and character profiles
 - Stores chats/settings locally
 - Includes request/error logs and conversation repair tools
