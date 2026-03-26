@@ -45,7 +45,7 @@ Download the latest Windows installer from **Releases**:
 ## Privacy
 All conversation data and runtime settings are stored locally on your machine.
 
-**Important Note:** The app might ask for netwerk access. This is because a backend is bundled with the app that starts a server to send API requests to your local model.
+**Important Note:** The app might ask for network access. This is because a backend is bundled with the app that starts a server to send API requests to your local model.
 
 ## Integrity Verification
 Each release includes SHA256SUMS.txt.
