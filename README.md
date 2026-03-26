@@ -1,26 +1,55 @@
-# Weerie's AI Box - v0.1.8
+# Weerie’s AI Box
 
-Weerie's AI Box is a web-based AI playground that brings useful AI tools together in a simple, accessible interface.
+Local-first LLM playground for roleplay, character simulation, and multi-agent conversations.
 
-## Features
+## Download
 
-- Browser-based AI experience
-- Simple and lightweight interface
-- Built for experimentation and practical use
+Download the latest Windows installer from **Releases**:  
+https://github.com/<your-username>/<your-repo>/releases/latest
 
-## Website
+## What It Does
 
-Read information and features at [ai.weerie.tech](https://ai.weerie.tech/)
+- Runs with local model providers (Ollama + OpenAI-compatible APIs)
+- Supports **You + AI** and **AI + AI** conversation modes
+- Includes **Agent Mode** and **Roleplay Mode** presets
+- Lets you create/manage custom agents and character profiles
+- Stores chats/settings locally
+- Includes request/error logs and conversation repair tools
+- Exports chats to Markdown and agents to JSON
 
-## About
+## System Requirements
 
-This project is intended as a straightforward way to explore and use AI capabilities locally.
-Check out the changelog [here](https://github.com/Weerie/AI-box/blob/main/CHANGELOG.md)
+- Windows 10/11 (x64)
+- Local model runtime (recommended: Ollama)
+- Enough VRAM/RAM for your selected model
 
-## Source-Code
+## Quick Start
 
-Currently not public.
-Want access? message me on Discord!
-Username: Weerie
+1. Install Ollama: https://ollama.com/download
+2. Pull a model (example):
+   ```bash
+   ollama pull qwen2.5:7b
+   ```
+3. Start Ollama:
+   ```bash
+   ollama serve
+   ```
+4. Launch Weerie’s AI Box
+5. Open Settings and set your provider/model
+6. Start a new chat and choose mode + agents
 
-<img width="1024" height="1024" alt="icon (3)" src="https://github.com/user-attachments/assets/2dd2988a-7bf2-44b6-8900-6d6759bd24f6" />
+## Privacy
+All conversation data and runtime settings are stored locally on your machine.
+
+## Troubleshooting
+- Backend offline: restart app, verify local provider is running
+- No model output: check Logs tab for request/model errors
+- Wrong model behavior: confirm model name and provider URL in Settings
+
+## Contributing
+This project is distributed as a binary release.
+Contribution and feedback are handled via Discord: COMING SOON
+
+## License
+Proprietary / All Rights Reserved.
+No modification or redistribution rights are granted without explicit written permission.
