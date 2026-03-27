@@ -1,5 +1,19 @@
 # Changelog
 
+## v0.2.4.1 - 2026-03-27
+
+### Added
+- Agent temperature mode selector in **Agents / Characters**: **Use global** vs **Agent override**.
+- New agent data flag `useGlobalTemperature` to make temperature behavior explicit and predictable.
+
+### Changed
+- Global model/provider temperature is now the default path for agents unless an explicit per-agent override is enabled.
+- Chat generation temperature resolution is now aligned across both regular and streaming chat paths.
+
+### Fixed
+- Fixed cases where changing temperature in Provider Settings appeared to have little effect because agents were implicitly overriding with local defaults.
+- Added backward-compatible normalization so legacy agents using default temp values are treated as global-temperature agents.
+
 ## v0.2.4 - 2026-03-27
 
 ### Added
